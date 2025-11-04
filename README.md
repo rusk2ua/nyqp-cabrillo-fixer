@@ -1,4 +1,4 @@
-# NY QSO Party Cabrillo Generator
+# New York QSO Party Cabrillo Fixer
 
 A Python tool to convert PDF contest logs to valid Cabrillo format files for the New York QSO Party contest.
 
