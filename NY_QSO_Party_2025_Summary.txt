@@ -1,0 +1,45 @@
+NY QSO PARTY 2025 - K4GSX CONTEST SUMMARY
+==========================================
+
+Contest: New York QSO Party 2025
+Callsign: K4GSX
+Date: October 18, 2025
+Mode: CW Only
+
+FINAL RESULTS:
+- Total QSOs: 61 (after duplicate removal)
+- Counties Worked: 23
+- Claimed Score: 61 points
+
+QSO BREAKDOWN BY BAND:
+- 15m (21 MHz): 22 QSOs
+- 20m (14 MHz): 33 QSOs  
+- 40m (7 MHz):   6 QSOs
+
+COUNTIES WORKED (23):
+ALB, ALL, ERI, ESS, FRA, FUL, LEW, MON, NIA, ONO, ONT, ORA, 
+ORL, OSW, RIC, SAR, SCU, STE, STL, SUF, ULS, WAR, YAT
+
+CABRILLO FILE DETAILS:
+- File: K4GSX_NY_QSO_PARTY_2025_CORRECTED.log
+- Format: Cabrillo 3.0
+- Contest: NY-QSO-PARTY
+- Category: SINGLE-OP, NON-ASSISTED, ALL-BAND, CW, HIGH-POWER, FIXED
+
+CONTEST PERIOD:
+- Start: 2025-10-18 14:00 UTC (10:00 AM EDT)
+- End: 2025-10-19 02:00 UTC (10:00 PM EDT)
+- Duration: 12 hours
+
+EXCHANGE:
+- Sent: 599 GA (RST + State)
+- Received: 599 + NY County abbreviation
+
+NOTES:
+- All QSOs were CW mode
+- Duplicates removed (same station on same band)
+- File ready for electronic submission
+- Generated from PDF log using Python script
+
+The Cabrillo file is properly formatted according to the 2025 NY QSO Party rules
+and is ready for submission to the contest organizers.
