@@ -24,8 +24,8 @@ This project extracts QSO data from PDF log files and generates properly formatt
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd nyqp-cabrillo-project
+git clone [<repository-url>](https://github.com/rusk2ua/nyqp-cabrillo-fixer)
+cd nyqp-cabrillo-fixer
 ```
 
 2. Create virtual environment and install dependencies:
