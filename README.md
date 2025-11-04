@@ -10,7 +10,7 @@ This project extracts QSO data from PDF log files and generates properly formatt
 
 - Extracts QSO data from PDF log files using PyPDF2
 - Parses contest log format: frequency, mode, date/time, callsigns, and exchanges
-- Removes duplicate QSOs (same station on same band)
+- Removes duplicate QSOs (same station on same band) **Note: Not a desirable feature--will be removed on next release**
 - Generates valid Cabrillo 3.0 format files
 - Provides contest summary with band breakdown and counties worked
 - Compliant with 2025 NY QSO Party rules
